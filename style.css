@@ -6,17 +6,17 @@
     display: inline-block;
 }
 body{
-    background-color: #393E46;
+    background-color: #C7B7A3;
 }
 h1{
     font-size: 8rem;
     font-family: 'Lobster', cursive;
-    color: aquamarine;
-    text-shadow: 5px 0 black;
+    color: #6D2932;
+    text-shadow: 5px 0 #AC7D88;
 }
 p{
     font-family: 'Indie Flower', cursive;
-    color: aquamarine;
+    color: #6D2932;
     font-size: 3rem;
 }
 img{
@@ -26,7 +26,7 @@ img{
 footer{
     font-family: 'Indie Flower', cursive;
     text-align: center;
-    color: aliceblue;
+    color: #561C24;
     margin-top: 5%;
 
 }
